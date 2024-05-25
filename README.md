@@ -22,7 +22,7 @@ StoreCap is a modern, clean, and minimalistic SaaS inventory management applicat
 
 ## Installation
 
-### Prerequisites
+### Prerequisites for Usage
 
 - Node.js and npm installed on your machine
 - MySQL installed and running
