@@ -31,7 +31,7 @@ StoreCap is a modern, clean, and minimalistic SaaS inventory management applicat
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/storecap.git
+    git clone https://github.com/EtsubYidenkachew/storecap.git
     cd storecap
     ```
 
